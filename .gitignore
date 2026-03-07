@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Environment
+.env
+.venv/
+env/
+anaconda_projects/
+
+# Временни файлове
+~$*
+*.docx
+*.pdf
+*.webp
